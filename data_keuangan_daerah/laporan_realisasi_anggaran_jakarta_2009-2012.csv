@@ -1,0 +1,167 @@
+nomor_urut,tahun,pos_anggaran,sumber_pos_anggaran,penjelasan_pos_anggaran,catatan,anggaran_setelah_perubahan,realisasi
+"1.1.1",2009,"Pendapatan","Pendapatan Asli Daearah","Pendapatan Pajak Daerah","",8.615e+12,8.560e+12
+"1.1.2",2009,"Pendapatan","Pendapatan Asli Daearah","Pendapatan Retribusi Daerah","",3.846e+11,4.169e+11
+"1.1.3",2009,"Pendapatan","Pendapatan Asli Daearah","Pendapatan Hasil Pengelolaan Kekayaan Daerah yang Dipisahkan","",1.800e+11,1.811e+11
+"1.1.4",2009,"Pendapatan","Pendapatan Asli Daearah","Lain-lain PAD yang Sah","",1.184e+12,1.443e+12
+"1.2.1.1",2009,"Pendapatan","Pendapatan Transfer - Dana Perimbangan","Dana Bagi Hasil Pajak","",8.978e+12,8.580e+12
+"1.2.1.2",2009,"Pendapatan","Pendapatan Transfer - Dana Perimbangan","Dana Bagi Hasil Sumber Daya Alam","",3.000e+10,7.065e+10
+"1.2.1.3",2009,"Pendapatan","Pendapatan Transfer - Dana Perimbangan","Dana Alokasi Umum","",0,0
+"1.2.1.4",2009,"Pendapatan","Pendapatan Transfer - Dana Perimbangan","Dana Alokasi Khusus","",0,0
+"1.2.2.1",2009,"Pendapatan","Pendapatan Transfer - Dana Lainnya","Dana Otonomi Khusus","",0,0
+"1.2.2.2",2009,"Pendapatan","Pendapatan Transfer - Dana Lainnya","Dana Penyesuaian","",0,0
+"1.3.1",2009,"Pendapatan","Lain-lain Pendapatan yang Sah","Pendapatan Hibah","",0,1.079e+10
+"1.3.2",2009,"Pendapatan","Lain-lain Pendapatan yang Sah","Pendapatan Dana Darurat","",0,0
+"1.3.3",2009,"Pendapatan","Lain-lain Pendapatan yang Sah","Pendapatan Lainnya","",0,0
+"2.1.1",2009,"Belanja","Belanja Operasi","Belanja Pegawai","",8.372e+12,7.547e+12
+"2.1.2",2009,"Belanja","Belanja Operasi","Belanja Barang","",8.065e+12,6.773e+12
+"2.1.3",2009,"Belanja","Belanja Operasi","Belanja Bunga","",9.946e+09,9.943e+09
+"2.1.4",2009,"Belanja","Belanja Operasi","Belanja Subsidi","",0,0
+"2.1.5",2009,"Belanja","Belanja Operasi","Belanja Hibah","",3.390e+11,3.053e+11
+"2.1.6",2009,"Belanja","Belanja Operasi","Belanja Bantuan Sosial","",7.066e+10,5.802e+10
+"2.1.7",2009,"Belanja","Belanja Operasi","Belanja Bantuan Keuangan","",6.775e+08,5.984e+08
+"2.2.1",2009,"Belanja","Belanja Modal","Belanja Tanah","",2.485e+12,1.575e+12
+"2.2.2",2009,"Belanja","Belanja Modal","Belanja Peralatan dan Mesin","",1.529e+12,1.152e+12
+"2.2.3",2009,"Belanja","Belanja Modal","Belanja Gedung dan Bangunan","",1.762e+12,1.406e+12
+"2.2.4",2009,"Belanja","Belanja Modal","Belanja Jalan, Irigasi, dan Jaringan","",7.705e+11,5.654e+11
+"2.2.4",2009,"Belanja","Belanja Modal","Belanja Aset Tetap Lainnya","",1.349e+11,1.181e+11
+"2.3.1",2009,"Belanja","Belanja Tak Terduga","Belanja Tidak Terduga","",5.670e+10,0
+"2.4.1",2009,"Belanja","Transfer","Bagi Hasil Pajak Ke Kabupaten/Kota","",0,0
+"2.4.2",2009,"Belanja","Transfer","Bagi Hasil Retribusi ke Kabupaten/Kota","",0,0
+"2.4.3",2009,"Belanja","Transfer","Bagi Hasil Pendapatan Lainnya ke Kabupaten/Kota","",0,0
+"3.1.1",2009,"Pembiayaan","Penerimaan Pembiayaan","Penggunaan SiLPA","",4.446e+12,4.446e+12
+"3.1.2",2009,"Pembiayaan","Penerimaan Pembiayaan","Pencairan Dana Cadangan","",1.500e+11,0
+"3.1.3",2009,"Pembiayaan","Penerimaan Pembiayaan","Hasil Penjualan Kekayaan Daerah Yang Dipisahkan","",0,0
+"3.1.4",2009,"Pembiayaan","Penerimaan Pembiayaan","Penerimaan Pinjaman Daerah","",0,0
+"3.1.5",2009,"Pembiayaan","Penerimaan Pembiayaan","Penerimaan Kembali pemberian Pinjaman Daerah","",0,0
+"3.1.6",2009,"Pembiayaan","Penerimaan Pembiayaan","Penerimaan Piutang Daerah","",0,0
+"3.2.1",2009,"Pembiayaan","Pengeluaran Pembiayaan","Pembentukan Dana Cadangan","",0,7.015e+10
+"3.2.2",2009,"Pembiayaan","Pengeluaran Pembiayaan","Penyertaan Modal (Investasi) Pemerintah Daerah","",2.385e+11,2.385e+11
+"3.2.3",2009,"Pembiayaan","Pengeluaran Pembiayaan","Pembayaran Pokok Utang","",2.470e+10,2.468e+10
+"3.2.4",2009,"Pembiayaan","Pengeluaran Pembiayaan","Pembayaran Utang Kepada Pihak Ketiga","",2.844e+10,2.822e+10
+"3.2.5",2009,"Pembiayaan","Pengeluaran Pembiayaan","Pembayaran Utang TPP Kepada PNS/CPNS ","",2.100e+10,1.897e+10
+"3.2.6",2009,"Pembiayaan","Pengeluaran Pembiayaan","Pemberian Pinjaman Daerah","",6.075e+10,6.075e+10
+"1.1.1",2010,"Pendapatan","Pendapatan Asli Daearah","Pendapatan Pajak Daerah","5.1.1.1.1",1.008e+13,1.075e+13
+"1.1.2",2010,"Pendapatan","Pendapatan Asli Daearah","Pendapatan Retribusi Daerah","5.1.1.1.2",4.079e+11,4.392e+11
+"1.1.3",2010,"Pendapatan","Pendapatan Asli Daearah","Pendapatan Hasil Pengelolaan Kekayaan Daerah yang Dipisahkan","5.1.1.1.3",2.128e+11,2.230e+11
+"1.1.4",2010,"Pendapatan","Pendapatan Asli Daearah","Lain-lain PAD ","5.1.1.1.4",1.612e+12,1.478e+12
+"1.2.1.1",2010,"Pendapatan","Pendapatan Transfer - Dana Perimbangan","Dana Bagi Hasil Pajak","5.1.1.2.1.1",9.906e+12,9.399e+12
+"1.2.1.2",2010,"Pendapatan","Pendapatan Transfer - Dana Perimbangan","Dana Bagi Hasil Sumber Daya Alam","5.1.1.2.1.2",1.000e+11,1.390e+11
+"1.2.1.3",2010,"Pendapatan","Pendapatan Transfer - Dana Perimbangan","Dana Alokasi Umum","",0,0
+"1.2.1.4",2010,"Pendapatan","Pendapatan Transfer - Dana Perimbangan","Dana Alokasi Khusus","",0,0
+"1.2.2.1",2010,"Pendapatan","Pendapatan Transfer - Dana Lainnya","Dana Otonomi Khusus","",0,0
+"1.2.2.2",2010,"Pendapatan","Pendapatan Transfer - Dana Lainnya","Dana Penyesuaian","5.1.1.2.2.1",6.009e+11,5.964e+11
+"1.3.1",2010,"Pendapatan","Lain-lain Pendapatan yang Sah","Pendapatan Hibah","5.1.1.3",4.100e+10,0
+"1.3.2",2010,"Pendapatan","Lain-lain Pendapatan yang Sah","Pendapatan Dana Darurat","5.1.1.4",0,0
+"1.3.3",2010,"Pendapatan","Lain-lain Pendapatan yang Sah","Pendapatan Lainnya","5.1.1.5",0,0
+"2.1.1",2010,"Belanja","Belanja Operasi","Belanja Pegawai","5.1.2.1.1.1.a",9.468e+12,8.538e+12
+"2.1.2",2010,"Belanja","Belanja Operasi","Belanja Barang","5.1.2.1.1.1.b",8.537e+12,7.312e+12
+"2.1.3",2010,"Belanja","Belanja Operasi","Belanja Bunga","5.1.2.1.1.1.c",9.946e+09,7.421e+09
+"2.1.4",2010,"Belanja","Belanja Operasi","Belanja Subsidi","",0,0
+"2.1.5",2010,"Belanja","Belanja Operasi","Belanja Hibah","5.1.2.1.1.1.d",4.337e+11,4.235e+11
+"2.1.6",2010,"Belanja","Belanja Operasi","Belanja Bantuan Sosial","5.1.2.1.1.1.e",4.669e+10,2.752e+10
+"2.1.7",2010,"Belanja","Belanja Operasi","Belanja Bantuan Keuangan","5.1.2.1.1.1.f",1.350e+09,1.339e+09
+"2.2.1",2010,"Belanja","Belanja Modal","Belanja Tanah","5.1.2.1.1.2.a",1.905e+12,7.896e+11
+"2.2.2",2010,"Belanja","Belanja Modal","Belanja Peralatan dan Mesin","5.1.2.1.1.2.b",2.253e+12,1.815e+12
+"2.2.3",2010,"Belanja","Belanja Modal","Belanja Gedung dan Bangunan","5.1.2.1.1.2.c",1.543e+12,1.273e+12
+"2.2.4",2010,"Belanja","Belanja Modal","Belanja Jalan, Irigasi, dan Jaringan","5.1.2.1.1.2.d",1.652e+12,1.162e+12
+"2.2.4",2010,"Belanja","Belanja Modal","Belanja Aset Tetap Lainnya","5.1.2.1.1.2.e",2.786e+11,2.035e+11
+"2.3.1",2010,"Belanja","Belanja Tak Terduga","Belanja Tidak Terduga","5.1.2.1.1.3",1.022e+11,0
+"2.4.1",2010,"Belanja","Transfer","Bagi Hasil Pajak Ke Kabupaten/Kota","",0,0
+"2.4.2",2010,"Belanja","Transfer","Bagi Hasil Retribusi ke Kabupaten/Kota","",0,0
+"2.4.3",2010,"Belanja","Transfer","Bagi Hasil Pendapatan Lainnya ke Kabupaten/Kota","",0,0
+"3.1.1",2010,"Pembiayaan","Penerimaan Pembiayaan","Penggunaan SiLPA","5.1.3.1",3.749e+12,3.749e+12
+"3.1.2",2010,"Pembiayaan","Penerimaan Pembiayaan","Pencairan Dana Cadangan","5.1.3.1",0,0
+"3.1.3",2010,"Pembiayaan","Penerimaan Pembiayaan","Hasil Penjualan Kekayaan Daerah Yang Dipisahkan","5.1.3.1",0,0
+"3.1.4",2010,"Pembiayaan","Penerimaan Pembiayaan","Penerimaan Pinjaman Daerah","5.1.3.1",0,0
+"3.1.5",2010,"Pembiayaan","Penerimaan Pembiayaan","Penerimaan Kembali pemberian Pinjaman Daerah","5.1.3.1",0,0
+"3.1.6",2010,"Pembiayaan","Penerimaan Pembiayaan","Penerimaan Piutang Daerah","5.1.3.1",0,0
+"3.2.1",2010,"Pembiayaan","Pengeluaran Pembiayaan","Pembentukan Dana Cadangan","5.1.3.2",0,5.004e+10
+"3.2.2",2010,"Pembiayaan","Pengeluaran Pembiayaan","Penyertaan Modal (Investasi) Pemerintah Daerah","5.1.3.2",2.900e+11,8.091e+10
+"3.2.3",2010,"Pembiayaan","Pengeluaran Pembiayaan","Pembayaran Pokok Utang","5.1.3.2",2.471e+10,2.468e+10
+"3.2.4",2010,"Pembiayaan","Pengeluaran Pembiayaan","Pembayaran Utang Kepada Pihak Ketiga","5.1.3.2",3.608e+10,2.430e+10
+"3.2.5",2010,"Pembiayaan","Pengeluaran Pembiayaan","Pembayaran Utang TPP Kepada PNS","5.1.3.2",3.892e+09,3.478e+09
+"3.2.6",2010,"Pembiayaan","Pengeluaran Pembiayaan","Pemberian Pinjaman Daerah","5.1.3.2",1.270e+11,1.270e+11
+"1.1.1",2011,"Pendapatan","Pendapatan Asli Daerah","Pendapatan Pajak Daerah","5.1.1.1.1",1.397e+13,1.522e+13
+"1.1.2",2011,"Pendapatan","Pendapatan Asli Daerah","Pendapatan Retribusi Daerah","5.1.1.1.2",4.562e+11,6.093e+11
+"1.1.3",2011,"Pendapatan","Pendapatan Asli Daerah","Pendapatan Hasil Pengelolaan Kekayaan Daerah yang Dipisahkan","5.1.1.1.3",2.437e+11,2.788e+11
+"1.1.4",2011,"Pendapatan","Pendapatan Asli Daerah","Lain-lain PAD ","5.1.1.1.4",1.615e+12,1.717e+12
+"1.2.1.1",2011,"Pendapatan","Pendapatan Transfer - Dana Perimbangan","Dana Bagi Hasil Pajak","5.1.1.2.1.1",8.310e+12,8.748e+12
+"1.2.1.2",2011,"Pendapatan","Pendapatan Transfer - Dana Perimbangan","Dana Bagi Hasil Sumber Daya Alam","5.1.1.2.1.2",1.382e+11,1.922e+11
+"1.2.1.3",2011,"Pendapatan","Pendapatan Transfer - Dana Perimbangan","Dana Alokasi Umum","5.1.1.2.1.3",2.099e+11,2.099e+11
+"1.2.1.4",2011,"Pendapatan","Pendapatan Transfer - Dana Perimbangan","Dana Alokasi Khusus","",0,0
+"1.2.2.1",2011,"Pendapatan","Pendapatan Transfer - Dana Lainnya","Dana Otonomi Khusus","",0,0
+"1.2.2.2",2011,"Pendapatan","Pendapatan Transfer - Dana Lainnya","Dana Penyesuaian","5.1.1.2.2.1",1.313e+12,1.313e+12
+"1.3.1",2011,"Pendapatan","Lain-lain Pendapatan yang Sah","Pendapatan Hibah","5.1.1.3",5.940e+11,8.411e+09
+"1.3.2",2011,"Pendapatan","Lain-lain Pendapatan yang Sah","Pendapatan Dana Darurat","",0,0
+"2.1.1",2011,"Belanja","Belanja Operasi","Belanja Pegawai","5.1.2.1.1.1.a",1.056e+13,9.896e+12
+"2.1.2",2011,"Belanja","Belanja Operasi","Belanja Barang","5.1.2.1.1.1.b",9.656e+12,8.342e+12
+"2.1.3",2011,"Belanja","Belanja Operasi","Belanja Bunga","5.1.2.1.1.1.c",4.354e+09,4.354e+09
+"2.1.4",2011,"Belanja","Belanja Operasi","Belanja Subsidi","",0,0
+"2.1.5",2011,"Belanja","Belanja Operasi","Belanja Hibah","5.1.2.1.1.1.d",8.826e+11,8.256e+11
+"2.1.6",2011,"Belanja","Belanja Operasi","Belanja Bantuan Sosial","5.1.2.1.1.1.e",5.827e+10,3.859e+10
+"2.1.7",2011,"Belanja","Belanja Operasi","Belanja Bantuan Keuangan","5.1.2.1.1.1.f",1.350e+09,1.339e+09
+"2.2.1",2011,"Belanja","Belanja Modal","Belanja Tanah","5.1.2.1.1.2.a",1.978e+12,8.369e+11
+"2.2.2",2011,"Belanja","Belanja Modal","Belanja Peralatan dan Mesin","5.1.2.1.1.2.b",2.702e+12,2.231e+12
+"2.2.3",2011,"Belanja","Belanja Modal","Belanja Gedung dan Bangunan","5.1.2.1.1.2.c",2.486e+12,2.179e+12
+"2.2.4",2011,"Belanja","Belanja Modal","Belanja Jalan, Irigasi, dan Jaringan","5.1.2.1.1.2.d",2.066e+12,1.661e+12
+"2.2.5",2011,"Belanja","Belanja Modal","Belanja Aset Tetap Lainnya","5.1.2.1.1.2.e",4.750e+11,4.091e+11
+"2.3.1",2011,"Belanja","Belanja Tak Terduga","Belanja Tidak Terduga","5.1.2.1.1.3",5.471e+10,0
+"2.4.1",2011,"Belanja","Transfer","Bagi Hasil Pajak Ke Kabupaten/Kota","",0,0
+"2.4.2",2011,"Belanja","Transfer","Bagi Hasil Retribusi ke Kabupaten/Kota","",0,0
+"2.4.3",2011,"Belanja","Transfer","Bagi Hasil Pendapatan Lainnya ke Kabupaten/Kota","",0,0
+"3.1.1",2011,"Pembiayaan","Penerimaan Pembiayaan","Penggunaan SiLPA","5.1.3.1",4.911e+12,4.911e+12
+"3.1.2",2011,"Pembiayaan","Penerimaan Pembiayaan","Pencairan Dana Cadangan","5.1.3.1",0,0
+"3.1.3",2011,"Pembiayaan","Penerimaan Pembiayaan","Hasil Penjualan Kekayaan Daerah Yang Dipisahkan","5.1.3.1",0,1.488e+10
+"3.1.4",2011,"Pembiayaan","Penerimaan Pembiayaan","Penerimaan Pinjaman Daerah","5.1.3.1",0,0
+"3.1.5",2011,"Pembiayaan","Penerimaan Pembiayaan","Penerimaan Kembali pemberian Pinjaman Daerah","5.1.3.1",0,0
+"3.1.6",2011,"Pembiayaan","Penerimaan Pembiayaan","Penerimaan Piutang Daerah","5.1.3.1",0,0
+"3.2.1",2011,"Pembiayaan","Pengeluaran Pembiayaan","Pembentukan Dana Cadangan","5.1.3.2",0,5.456e+10
+"3.2.2",2011,"Pembiayaan","Pengeluaran Pembiayaan","Penyertaan Modal (Investasi) Pemerintah Daerah","5.1.3.2",6.940e+11,1.368e+11
+"3.2.3",2011,"Pembiayaan","Pengeluaran Pembiayaan","Pembayaran Pokok Utang","5.1.3.2",1.123e+10,1.123e+10
+"3.2.4",2011,"Pembiayaan","Pengeluaran Pembiayaan","Pembayaran Utang Kepada Pihak Ketiga","5.1.3.2",1.270e+11,1.210e+11
+"3.2.5",2011,"Pembiayaan","Pengeluaran Pembiayaan","Pembayaran Utang Kepada Pegawai","5.1.3.2",2.301e+09,1.347e+09
+"3.2.6",2011,"Pembiayaan","Pengeluaran Pembiayaan","Pemberian Pinjaman Daerah","5.1.3.2",0,4.325e+09
+"1.1.1",2012,"Pendapatan","Pendapatan Asli Daerah","Pendapatan Pajak Daerah","5.1.1.1.1",1.653e+13,1.772e+13
+"1.1.2",2012,"Pendapatan","Pendapatan Asli Daerah","Pendapatan Retribusi Daerah","5.1.1.1.2",9.012e+11,1.820e+12
+"1.1.3",2012,"Pendapatan","Pendapatan Asli Daerah","Pendapatan Hasil Pengelolaan Kekayaan Daerah yang Dipisahkan","5.1.1.1.3",3.600e+11,3.518e+11
+"1.1.4",2012,"Pendapatan","Pendapatan Asli Daerah","Lain-lain PAD ","5.1.1.1.4",2.737e+12,2.147e+12
+"1.2.1.1",2012,"Pendapatan","Pendapatan Transfer - Dana Perimbangan","Dana Bagi Hasil Pajak","5.1.1.2.1.1",9.350e+12,1.098e+13
+"1.2.1.2",2012,"Pendapatan","Pendapatan Transfer - Dana Perimbangan","Dana Bagi Hasil Sumber Daya Alam","5.1.1.2.1.2",1.516e+11,2.948e+11
+"1.2.1.3",2012,"Pendapatan","Pendapatan Transfer - Dana Perimbangan","Dana Alokasi Umum","5.1.1.2.1.3",2.753e+11,2.753e+11
+"1.2.1.4",2012,"Pendapatan","Pendapatan Transfer - Dana Perimbangan","Dana Alokasi Khusus","",0,0
+"1.2.2.1",2012,"Pendapatan","Pendapatan Transfer - Dana Lainnya","Dana Otonomi Khusus","",0,0
+"1.2.2.2",2012,"Pendapatan","Pendapatan Transfer - Dana Lainnya","Dana Penyesuaian","5.1.1.2.2.1",1.817e+12,1.780e+12
+"1.3.1",2012,"Pendapatan","Lain-lain Pendapatan yang Sah","Pendapatan Hibah","5.1.1.3",1.533e+12,3.731e+09
+"1.3.2",2012,"Pendapatan","Lain-lain Pendapatan yang Sah","Pendapatan Dana Darurat","",0,0
+"2.1.1",2012,"Belanja","Belanja Operasi","Belanja Pegawai","5.1.2.1.1.1.a",1.190e+13,1.109e+13
+"2.1.2",2012,"Belanja","Belanja Operasi","Belanja Barang","5.1.2.1.1.1.b",1.138e+13,9.703e+12
+"2.1.3",2012,"Belanja","Belanja Operasi","Belanja Bunga","5.1.2.1.1.1.c",4.354e+09,3.173e+09
+"2.1.4",2012,"Belanja","Belanja Operasi","Belanja Subsidi","",0,0
+"2.1.5",2012,"Belanja","Belanja Operasi","Belanja Hibah","5.1.2.1.1.1.d",2.089e+12,1.933e+12
+"2.1.6",2012,"Belanja","Belanja Operasi","Belanja Bantuan Sosial","5.1.2.1.1.1.e",2.947e+10,1.599e+10
+"2.1.7",2012,"Belanja","Belanja Operasi","Belanja Bantuan Keuangan","5.1.2.1.1.1.f",4.635e+10,3.019e+10
+"2.2.1",2012,"Belanja","Belanja Modal","Belanja Tanah","5.1.2.1.1.2.a",2.189e+12,4.937e+11
+"2.2.2",2012,"Belanja","Belanja Modal","Belanja Peralatan dan Mesin","5.1.2.1.1.2.b",4.022e+12,3.263e+12
+"2.2.3",2012,"Belanja","Belanja Modal","Belanja Gedung dan Bangunan","5.1.2.1.1.2.c",3.119e+12,2.528e+12
+"2.2.4",2012,"Belanja","Belanja Modal","Belanja Jalan, Irigasi, dan Jaringan","5.1.2.1.1.2.d",2.816e+12,1.962e+12
+"2.2.5",2012,"Belanja","Belanja Modal","Belanja Aset Tetap Lainnya","5.1.2.1.1.2.e",6.726e+11,5.382e+11
+"2.3.1",2012,"Belanja","Belanja Tak Terduga","Belanja Tidak Terduga","5.1.2.1.1.3",9.699e+10,2.488e+09
+"2.4.1",2012,"Belanja","Transfer","Bagi Hasil Pajak Ke Kabupaten/Kota","",0,0
+"2.4.2",2012,"Belanja","Transfer","Bagi Hasil Retribusi ke Kabupaten/Kota","",0,0
+"2.4.3",2012,"Belanja","Transfer","Bagi Hasil Pendapatan Lainnya ke Kabupaten/Kota","",0,0
+"3.1.1",2012,"Pembiayaan","Penerimaan Pembiayaan","Penggunaan SiLPA","5.1.3.1",6.471e+12,6.471e+12
+"3.1.2",2012,"Pembiayaan","Penerimaan Pembiayaan","Pencairan Dana Cadangan","5.1.3.1",0,0
+"3.1.3",2012,"Pembiayaan","Penerimaan Pembiayaan","Hasil Penjualan Kekayaan Daerah Yang Dipisahkan","5.1.3.1",0,4.934e+09
+"3.1.4",2012,"Pembiayaan","Penerimaan Pembiayaan","Penerimaan Pinjaman Daerah","5.1.3.1",1.233e+12,0
+"3.1.5",2012,"Pembiayaan","Penerimaan Pembiayaan","Penerimaan Kembali pemberian Pinjaman Daerah","5.1.3.1",0,0
+"3.1.6",2012,"Pembiayaan","Penerimaan Pembiayaan","Penerimaan Piutang Daerah","5.1.3.1",0,0
+"3.2.1",2012,"Pembiayaan","Pengeluaran Pembiayaan","Pembentukan Dana Cadangan","5.1.3.2",0,4.906e+10
+"3.2.2",2012,"Pembiayaan","Pengeluaran Pembiayaan","Penyertaan Modal (Investasi) Pemerintah Daerah","5.1.3.2",2.782e+12,6.185e+11
+"3.2.3",2012,"Pembiayaan","Pengeluaran Pembiayaan","Pembayaran Pokok Utang","5.1.3.2",1.123e+10,8.169e+09
+"3.2.6",2012,"Pembiayaan","Pengeluaran Pembiayaan","Pembayaran Utang Kepada Pihak Ketiga","5.1.3.2",3.505e+10,3.465e+10
+"3.2.7",2012,"Pembiayaan","Pengeluaran Pembiayaan","Pembayaran Utang Kepada Pegawai","5.1.3.2",4.103e+08,1.129e+08
+"3.2.8",2012,"Pembiayaan","Pengeluaran Pembiayaan","Pembayaran Utang Biaya Pemungutan","5.1.3.2",4.183e+09,4.077e+09
+"3.2.9",2012,"Pembiayaan","Pengeluaran Pembiayaan","Pembayaran Utang Suku Cadang","5.1.3.2",2365000,0
+"3.2.10",2012,"Pembiayaan","Pengeluaran Pembiayaan","Pembayaran Utang Perpanjangan STNK","5.1.3.2",4642500,3629500
+"3.2.11",2012,"Pembiayaan","Pengeluaran Pembiayaan","Pembayaran Utang Pajak","5.1.3.2",1.006e+11,6.231e+10
+"3.2.12",2012,"Pembiayaan","Pengeluaran Pembiayaan","Pemberian Pinjaman Daerah","5.1.3.2",5.340e+10,5.544e+10
